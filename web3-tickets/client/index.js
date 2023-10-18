@@ -34,12 +34,14 @@ const refreshTickets = async() => {
         ticket.id = i;
         if(ticket.owner === EMPTY_ADDRESS)
         {
+            const priceInEth = parseFloat(ticket.price) / 1e18;
+
             const ticketEl = createElementFromString(
                 `<div class="ticket card" style="width: 18rem;">
                 <img src="${ticketImage}" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
-                  <p class="card-text">${ticket.price}</p>
+                  <p class="card-text">${priceInEth} Eth</p>
                   <button class="btn btn-primary">Buy</button>
                 </div>
               </div>`
