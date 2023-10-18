@@ -7,7 +7,7 @@
 91D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\caniuse-lite\data\regions\HK.js133419266916699700 0
 86D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\svgo\plugins\reusePaths.js133419266907945167 0
 85D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\bootstrap\js\src\alert.js133419268467129844 0
-51D:\BlockChain\web3-tickets\web3-tickets\client\dist133419282594014034 1
+51D:\BlockChain\web3-tickets\web3-tickets\client\dist133419325571730076 1
 89D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-rpc-methods\lib\commonjs133419268459004376 1
 83D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\call-bind\test\index.js133419268404486952 0
 94D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\is-typed-array\.github\FUNDING.yml133419268409158093 0
@@ -26,7 +26,7 @@
 104D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-types\lib\commonjs\utility_types.js.map133419268479301988 0
 112D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-eth-accounts\lib\commonjs\common\eips\3554.d.ts133419268490997188 0
 72D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\browserslist133419266961309994 1
-57D:\BlockChain\web3-tickets\web3-tickets\client\index.html133419282085125315 0
+57D:\BlockChain\web3-tickets\web3-tickets\client\index.html133419283397415337 0
 124D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json133419266915965765 0
 107D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133419266905579030 0
 85D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\hash.js\test\hash-test.js133419268421488424 0
@@ -51,7 +51,7 @@
 99D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\caniuse-lite\data\features\vibration.js133419266924862761 0
 88D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\semver\functions\rcompare.js133419266906233095 0
 106D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-validator\lib\types\validation\bytes.d.ts133419268486012921 0
-55D:\BlockChain\web3-tickets\web3-tickets\client\index.js133419278516299083 0
+55D:\BlockChain\web3-tickets\web3-tickets\client\index.js133419327143239963 0
 116D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\supports.js133419266987938782 0
 100D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\caniuse-lite\data\features\use-strict.js133419266924561501 0
 108D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data133419266905686452 1
@@ -3072,7 +3072,7 @@
 92D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-errors\lib\esm\package.json133419268453055447 0
 93D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\caniuse-lite\data\features\av1.js133419266907563508 0
 115D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-errors\lib\commonjs\errors\rpc_error_messages.d.ts133419268484699414 0
-69D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3d214d75.js133419282594003898 0
+69D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3d214d75.js133419325571578456 0
 109D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\abstract-signer\lib\index.d.ts.map133419268410839511 0
 105D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-eth-accounts\lib\types\common\utils.d.ts133419268493298212 0
 142D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133419266909067241 0
@@ -3203,7 +3203,7 @@
 105D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-eth-accounts\lib\types\common\types.d.ts133419268493165899 0
 81D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\hash.js\lib\hash.d.ts133419268398832397 0
 109D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-eth-accounts\lib\types\common\types.d.ts.map133419268490113025 0
-73D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3d214d75.js.map133419282594014034 0
+73D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3d214d75.js.map133419325571730076 0
 109D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-eth-accounts\lib\types\common\utils.d.ts.map133419268490196852 0
 96D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\web3-eth-abi\lib\esm\api\logs_api.js133419268421743501 0
 100D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\css-tree\cjs\lexer\generic-an-plus-b.cjs133419266907063519 0
@@ -8263,7 +8263,7 @@
 97D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@swc\helpers\cjs\_to_property_key.cjs133419266911865391 0
 93D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133419266911892864 0
 93D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@swc\helpers\cjs\_ts_metadata.cjs133419266911892864 0
-74D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3a01df49.css.map133419282593369366 0
+74D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3a01df49.css.map133419325569183682 0
 104D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\networks\lib.esm\types.js.map133419268420230473 0
 91D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@swc\helpers\cjs\_ts_values.cjs133419266911973544 0
 89D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@swc\helpers\cjs\_type_of.cjs133419266911973544 0
@@ -9901,7 +9901,7 @@
 104D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\networks\lib.esm\index.js.map133419268415484990 0
 102D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\networks\lib.esm\types.d.ts133419268435807880 0
 106D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\networks\lib.esm\types.d.ts.map133419268417498311 0
-70D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3a01df49.css133419282593212967 0
+70D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.3a01df49.css133419325568926358 0
 100D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\networks\lib.esm\types.js133419268400097036 0
 98D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\abi\lib\_version.js.map133419268452786378 0
 105D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\@ethersproject\networks\lib.esm\_version.d.ts133419268424812401 0
@@ -10309,4 +10309,4 @@
 87D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\.bin\update-browserslist-db133419267285844322 0
 91D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\.bin\update-browserslist-db.cmd133419267285844322 0
 91D:\BlockChain\web3-tickets\web3-tickets\client\node_modules\.bin\update-browserslist-db.ps1133419267285844322 0
-62D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.html133419282593525667 0
+62D:\BlockChain\web3-tickets\web3-tickets\client\dist\index.html133419325567167819 0
