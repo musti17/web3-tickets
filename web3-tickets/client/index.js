@@ -5,6 +5,12 @@ import configuration from '../build/contracts/Tickets.json';
 
 import ticketImage from '../images/ticket.png';
 
+const createElementFromString = (string) => {
+    const el = document.createElement('div');
+    el.innerHTML = string;
+    return el.firstChild;
+}
+
 const Contract_Address = configuration.networks['5777'].address;
 const Contract_ABI = configuration.abi;
 
