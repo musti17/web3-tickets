@@ -604,7 +604,7 @@ const refreshTickets = async ()=>{
         const ticket = await contract.methods.tickets(i).call();
         ticket.id = i;
         if (ticket.owner === EMPTY_ADDRESS) {
-            const ticketEl = createElementFromString(`<div class="card" style="width: 18rem;">
+            const ticketEl = createElementFromString(`<div class="ticket card" style="width: 18rem;">
                 <img src="${(0, _ticketPngDefault.default)}" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>

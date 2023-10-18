@@ -1,4 +1,15 @@
+#header {
+  margin-bottom: 20px;
+}
 
+#tickets {
+  grid-template-columns: repeat(4, 1fr);
+  display: grid;
+}
+
+.ticket {
+  margin-bottom: 20px;
+}
 
 :root, [data-bs-theme="light"] {
   --bs-blue: #0d6efd;

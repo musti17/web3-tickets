@@ -35,7 +35,7 @@ const refreshTickets = async() => {
         if(ticket.owner === EMPTY_ADDRESS)
         {
             const ticketEl = createElementFromString(
-                `<div class="card" style="width: 18rem;">
+                `<div class="ticket card" style="width: 18rem;">
                 <img src="${ticketImage}" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
