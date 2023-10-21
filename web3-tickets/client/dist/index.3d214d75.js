@@ -25015,4 +25015,12 @@ function getBaseURL(url) {
 function getOrigin(url) {
     var matches = ("" + url).match(/(https?|file|ftp|(chrome|moz|safari-web)-extension):\/\/[^/]+/);
     if (!matches) throw new Error("Origin not found");
-    return ma
+    return matches[0];
+}
+exports.getBundleURL = getBundleURLCached;
+exports.getBaseURL = getBaseURL;
+exports.getOrigin = getOrigin;
+
+},{}]},["3smKr","bB7Pu"], "bB7Pu", "parcelRequiree8ef")
+
+//# sourceMappingURL=index.3d214d75.js.map
