@@ -27,6 +27,14 @@ const EMPTY_ADDRESS = "0x0000000000000000000000000000000000000000";
 const accountEl = document.getElementById('account');
 const ticketsEl = document.getElementById('tickets');
 
+const buyTicket = async (ticket) =>{
+    await contract.methods.buyTicket(ticket.id).send({
+        from: account,
+        value:ticket.price
+    });
+    await refreshTickets();
+}
+
 const refreshTickets = async() => {
     ticketsEl.innerHTML = '';
     for(let i = 0; i < TOTAL_TICKETS; i++){
@@ -42,10 +50,12 @@ const refreshTickets = async() => {
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
                   <p class="card-text">${priceInEth} Eth</p>
-                  <button class="btn btn-primary">Buy</button>
+                  <button id='btn' class="btn btn-primary">Buy</button>
                 </div>
               </div>`
             );
+            const button = ticketEl.querySelector('button');
+            button.onclick = buyTicket.bind(null,ticket);
             ticketsEl.appendChild(ticketEl);
         }
     }
